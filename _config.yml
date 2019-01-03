@@ -19,7 +19,7 @@ author: Liu Shi
 description: >- # this means to ignore newlines until "baseurl:"
   Offline Disks File Searcher is a macOS app that catalogs content of
   external hard drives, USB sticks and individual folders. Manage your hard disks with it!
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/filesearcher" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: liushiv
 # github_username:
