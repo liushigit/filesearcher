@@ -1,0 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+$brand-color: #31fc50;
+
+.site-header {
+    border-top: 5px solid $brand-color;
+}
